@@ -26,17 +26,15 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=khalidabdullahiesse&show_icons=true&theme=tokyonight"/>
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdullahiesse&theme=tokyonight"/>
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidabdullahiesse&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -44,39 +42,26 @@
 # 🛠️ Tech Stack
 
 ## Frontend Development
-
 HTML5  
 CSS3  
 JavaScript  
 
----
-
 ## Backend Development
-
 Node.js  
 Express.js  
 
----
-
 ## Databases
-
 MongoDB  
 MySQL  
 
----
-
 ## Cloud & Tools
-
 Git  
 GitHub  
 Vercel  
 Postman  
 VS Code  
 
----
-
 ## Design
-
 Figma  
 
 ---
