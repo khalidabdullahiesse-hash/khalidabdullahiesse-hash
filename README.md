@@ -1,68 +1,68 @@
 <!-- Typing SVG -->
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Khalid+Abdullahi+Isse;Aspiring+Software+Engineer;Computer+Science+Student;Future+Tech+Entrepreneur" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=KhalidAbdullahiIsse&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</div>
 
----
+<hr/>
 
-# 💫 About Me
-🚀 Passionate about **Software Engineering & Technology**  
-🎓 Computer Science Student at **Jamhuuriyah University**  
-💻 Currently learning **C → JavaScript → Go**  
-🌱 Building projects like **Weather Web Apps**  
-🎯 Goal: Become a **Professional Software Engineer & Tech Entrepreneur**  
-📫 Reach me at: **your-email@example.com**  
-⚡ Fun fact: I love **Anime (Solo Leveling & Kingdom)** and **PC Games**  
+<h2>💫 About Me</h2>
+<p>🚀 Passionate about <b>Software Engineering & Technology</b><br/>
+🎓 Computer Science Student at <b>Jamhuuriyah University</b><br/>
+💻 Currently learning <b>C → JavaScript → Go</b><br/>
+🌱 Building projects like <b>Weather Web Apps</b><br/>
+🎯 Goal: Become a <b>Professional Software Engineer & Tech Entrepreneur</b><br/>
+📫 Reach me at: <b>your-email@example.com</b><br/>
+⚡ Fun fact: I love <b>Anime (Solo Leveling & Kingdom)</b> and <b>PC Games</b></p>
 
----
+<hr/>
 
-# 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-## 💻 Programming Languages
-<p align="center">
-  ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-  ![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
-</p>
+<h3>💻 Programming Languages</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go" />
+</div>
 
-## 🌐 Web Development
-<p align="center">
-  ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-  ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-  ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-</p>
+<h3>🌐 Web Development</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
+</div>
 
-## ⚙️ Tools
-<p align="center">
-  ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-  ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-  ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-</p>
+<h3>⚙️ Tools</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" />
+</div>
 
----
+<hr/>
 
-# 🌐 Connect With Me
-<p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/KhalidAbdullahiIsse)
-</p>
+<h2>🌐 Connect With Me</h2>
+<div align="center">
+  <a href="https://github.com/KhalidAbdullahiIsse">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</div>
 
----
+<hr/>
 
-# 📊 GitHub Stats
-<p align="center">
+<h2>📊 GitHub Stats</h2>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhalidAbdullahiIsse&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidAbdullahiIsse&theme=tokyonight" />
-</p>
-
-<p align="center">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidAbdullahiIsse&layout=compact&theme=tokyonight" />
-</p>
+</div>
