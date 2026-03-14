@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhalidAbdullahiIsse&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=khalidabdullahiesse-hash&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
 
 <hr/>
@@ -49,7 +49,7 @@
 
 <h2>🌐 Connect With Me</h2>
 <div align="center">
-  <a href="https://github.com/KhalidAbdullahiIsse">
+  <a href="https://github.com/khalidabdullahiesse-hash">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </div>
@@ -58,11 +58,11 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalidAbdullahiIsse&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khalidabdullahiesse-hash&show_icons=true&theme=tokyonight" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidAbdullahiIsse&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdullahiesse-hash&theme=tokyonight" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidAbdullahiIsse&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidabdullahiesse-hash&layout=compact&theme=tokyonight" />
 </div>
