@@ -37,12 +37,13 @@
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
 </div>
 
-<h3>⚙️ Tools</h3>
+<h3>⚙️ Tools & Databases</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" />
 </div>
 
 <hr/>
