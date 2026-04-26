@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Khalid+Abdullahi+Isse;Aspiring+Software+Engineer;Computer+Science+Student;Future+Tech+Entrepreneur" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Khalid+Abdullahi+Isse;Software+Engineer;Computer+Science+;Tech+Entrepreneur" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=khalidabdullahiesse-hash&label=Profile%20views&color=0e75b6&style=flat" />
